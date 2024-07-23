@@ -10,9 +10,9 @@ import (
 
 var SMSconfig = &openapi.Config{
 	// 您的AccessKey ID
-	AccessKeyId: tea.String("LTAI5tM8XhgWyctbXKWngxJC"),
+	AccessKeyId: tea.String(""),
 	// 您的AccessKey Secret
-	AccessKeySecret: tea.String("bv9xHxEdhq2O0QtMCI1etPLv2FQ1TD"),
+	AccessKeySecret: tea.String(""),
 }
 
 func SMSAliyun() {

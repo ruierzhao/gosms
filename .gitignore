@@ -13,3 +13,5 @@ data/log.log
 *.exe
 *.test
 *.prof
+
+private*
